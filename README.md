@@ -5,7 +5,9 @@ Its vision is to provide state-of-the-art information on climate disasters and c
 
 AUGUR combines information from satellite imaginary and climate change modelling. A first product is the development of a digital toolkit to assess the risk from heavy precipitation. Additional products will offer the calculation of riverine discharge and level of flooding for remote areas where no local and global trust worthful data is available.
 
-# Tooling Info
+Access to the the [AUGUR prototype toolkit](https://augur.world/home)
+
+# Tooling Info for augur.world
 - JavaScript runtime: [NodeJS](https://nodejs.org/)
 - Web Server Framework: [ExpressJS](https://expressjs.com/)
 - Database: [sqlite](https://sqlite.org/index.html)
