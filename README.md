@@ -1,5 +1,5 @@
 # Augur.world
-AUGUR is an initiative of the Swiss Agency for Development (SDC) humanitarian innovation accelerator “Innovation meets Practice” in 202 - see [pitch deck]([https://augur.world/home](https://static1.squarespace.com/static/619fa4f7993ee055dc490d70/t/61cc627e1ac49e69c79a5e22/1640784527710/presentation_augur_pitch_final.pdf)) 
+AUGUR is an initiative of the Swiss Agency for Development (SDC) humanitarian innovation accelerator “Innovation meets Practice” in 202 - see [pitch deck](https://static1.squarespace.com/static/619fa4f7993ee055dc490d70/t/61cc627e1ac49e69c79a5e22/1640784527710/presentation_augur_pitch_final.pdf) 
 
 Its vision is to provide state-of-the-art information on climate disasters and change which is open source, quality proven and feasible for humanitarian actors. These services reduce the financial and administrative costs to access climate expert knowledge.
 
