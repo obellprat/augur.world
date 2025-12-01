@@ -22,6 +22,7 @@ AUGUR combines information from satellite imaginary, climate change and hydrolog
 - Install yarn package manager via npm (bundled with nodeJS)
 ```shell
 npm install --global yarn
+npm install pm2 -g
 ```
 
 # Installation
@@ -50,8 +51,11 @@ cd server
 ```shell
 PORT=3000
 DB_PATH=/Users/gaskar/Documents/augur.sqlite
+```
+- Then install the server
+```shell
 npm install
-npm start
+npm run build
 ```
 
 # Run Application
