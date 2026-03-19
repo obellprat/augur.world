@@ -8,8 +8,8 @@
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "source": "src/index.html",
   "scripts": {
-    "start": "parcel",
-    "build": "parcel build",
+    "start": "parcel --public-url /precipitation",
+    "build": "parcel build --public-url /precipitation",
     "start-server": "http-server dist/ -p 1234 -g"
   },
   "dependencies": {
